@@ -1,2 +1,8 @@
-# config
-All of my config files
+# My config files
+- zshrc
+- vimrc
+- nvim/init.vim
+- alacritty
+- yabai
+- skhd
+- p10k
