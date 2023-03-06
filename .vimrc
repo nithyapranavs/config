@@ -1,0 +1,9 @@
+syntax on
+set number
+colorscheme codedark
+set sw=4
+set sts=4
+call plug#begin()
+    Plug 'tpope/vim-surround'
+    Plug 'scrooloose/nerdtree'
+call plug#end()
